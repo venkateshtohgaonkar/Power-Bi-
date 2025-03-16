@@ -1,2 +1,1 @@
-# Power-Bi-
-AtliQ PowerBi Dashboard
+esfnw'ifmsl.fnqekjg vlsl,cj eqhopfcm vn;ael
