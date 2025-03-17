@@ -1,5 +1,6 @@
 **********Business Insights 360************
-*******Project Overview*******
+
+*******Project Overview******
 
 **AtliQ Hardware**, a fast-growing manufacturer and distributor of computers and peripherals, is adopting Power BI for advanced data analytics. Previously, the company relied on Excel for analysis, but this approach lacked the depth needed for strategic decision-making, leading to inefficiencies and financial losses—especially in the Latin American market.
 
@@ -30,12 +31,12 @@ AtliQ Hardware is a global company that manufactures and sells computer hardware
 Why Analytics?
 **AtliQ Hardware recently faced unexpected losses in the U.S. market due to decisions based on surveys, intuition, and basic Excel analysis. Meanwhile, competitors use advanced analytics to drive their business decisions. To remain competitive, AtliQ is now building a dedicated analytics team to improve decision-making across key departments**:
 
-**Finance – Track revenue, profits, and financial performance.
-Sales – Identify top customers and sales trends.
-Marketing – Measure product performance and optimize campaigns.
-Supply Chain – Improve efficiency with key operational metrics.
-Executive Insights – Provide leadership with data-driven decision-making tools.
-Product – Analyze top and bottom-performing products to optimize growth and pricing strategies.**
+**Finance – Track revenue, profits, and financial performance.**
+**Sales – Identify top customers and sales trends.**
+**Marketing – Measure product performance and optimize campaigns.**
+**Supply Chain – Improve efficiency with key operational metrics.**
+**Executive Insights – Provide leadership with data-driven decision-making tools.**
+**Product – Analyze top and bottom-performing products to optimize growth and pricing strategies.**
 With data analytics in Power BI, AtliQ Hardware aims to transform its business strategy and ensure long-term success.
 
 Questions to Ask Before Building the Dashboard
@@ -59,15 +60,23 @@ Understanding the available data is crucial before starting the analysis. This d
 **Customer Data**
 74 customers across 27 countries/markets.
 209 stores operating on two platforms: a. Brick & Mortar: Physical stores (e.g., Croma, Best Buy), b. E-commerce: Online stores (e.g., Amazon, Flipkart)
+
 **Market Data**
 27 markets grouped into 7 sub-zones across 4 regions: a. APAC (Asia-Pacific) b. EU (Europe) c. NA (North America) b. LATAM (Latin America)
+
 **Product Data**
 3 divisions: a. Networking & Storage (N & S) b. Peripherals & Accessories (P & A) c. PCs (Notebooks & Desktops)
 6 segments and 14 product categories (e.g., Internal HDD, Keyboards)
+
 **Fact Tables (Transactional Data)**
+
 **Fact Sales Monthly**: Sales quantities for each product.
+
 **Fact Forecast Monthly**: Predicted customer demand to improve planning and reduce storage costs.
 Additional Data Sources (Excel Files)
+
 **Market Share**: Total sales data, including competitors (737 records)
+
 **Operational Expense**: Advertising, promotions, and operational costs (113 records)
+
 **NS GM Target**: Sales targets set by management for the current fiscal year (321 records)
