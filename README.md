@@ -80,3 +80,6 @@ Additional Data Sources (Excel Files)
 **Operational Expense**: Advertising, promotions, and operational costs (113 records)
 
 **NS GM Target**: Sales targets set by management for the current fiscal year (321 records)
+
+**Dashborad Link** : https://app.powerbi.com/groups/me/reports/0c093dcd-96c7-44d4-8824-f200f43b9761/ea3bc55c0b5e0496ed36?experience=power-bi 
+
