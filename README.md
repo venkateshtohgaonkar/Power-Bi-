@@ -1,6 +1,6 @@
-**********Business Insights 360************
+************Business Insights 360************
 
-*******Project Overview******
+*******Project Overview*******
 
 **AtliQ Hardware**, a fast-growing manufacturer and distributor of computers and peripherals, is adopting Power BI for advanced data analytics. Previously, the company relied on Excel for analysis, but this approach lacked the depth needed for strategic decision-making, leading to inefficiencies and financial losses—especially in the Latin American market.
 
